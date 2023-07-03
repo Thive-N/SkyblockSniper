@@ -31,3 +31,7 @@ will expand on this later and probably rewrite it all as it was written in an ho
 - parse all the current 5678 crafting recipes in game and put them in data.json (currently 8mbs)
 
 all tools havent been integrated together yet
+
+## todo
+
+sort out item names and make them more standardised
